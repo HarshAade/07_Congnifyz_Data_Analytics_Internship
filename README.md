@@ -46,5 +46,5 @@ In conclusion, this project provides a detailed exploration of restaurant data, 
 
 ## Project Link
 
-For more details and code implementation, please visit the project on LinkedIn [ https://www.linkedin.com/in/harsh-k-aade-144b51206 ].
+**LinkedIn:** Connect with me on [LinkedIn]( https://www.linkedin.com/in/harsh-k-aade-144b51206 ) for professional networking and collaboration opportunities.
 
